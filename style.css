@@ -96,7 +96,7 @@ form button:hover {
     background-color: #56e111;
 }
 
-/* Mobil uyum */
+
 @media (max-width: 600px) {
     form, #postList {
         padding: 10px;
